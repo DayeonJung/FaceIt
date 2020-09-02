@@ -1,5 +1,5 @@
-//
-//  ViewController.swift
+ //
+//  FaceViewController.swift
 //  FaceApp
 //
 //  Created by Dayeon Jung on 2020/09/02.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FaceViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
