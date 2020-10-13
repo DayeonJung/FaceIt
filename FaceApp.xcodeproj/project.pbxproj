@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B48C1FBD2535E51300AC873E /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48C1FBC2535E51300AC873E /* FacialExpression.swift */; };
 		B4DB839124FFCD75000F9AB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DB839024FFCD75000F9AB7 /* AppDelegate.swift */; };
 		B4DB839324FFCD75000F9AB7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DB839224FFCD75000F9AB7 /* SceneDelegate.swift */; };
 		B4DB839524FFCD75000F9AB7 /* FaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DB839424FFCD75000F9AB7 /* FaceViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B48C1FBC2535E51300AC873E /* FacialExpression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 		B4DB838D24FFCD75000F9AB7 /* FaceApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4DB839024FFCD75000F9AB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4DB839224FFCD75000F9AB7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,9 +61,10 @@
 			isa = PBXGroup;
 			children = (
 				B4DB83A424FFD6E2000F9AB7 /* Supporting Files */,
-				B4DB839424FFCD75000F9AB7 /* FaceViewController.swift */,
 				B4DB839624FFCD75000F9AB7 /* Main.storyboard */,
+				B4DB839424FFCD75000F9AB7 /* FaceViewController.swift */,
 				B4DB83A524FFD7C7000F9AB7 /* FaceView.swift */,
+				B48C1FBC2535E51300AC873E /* FacialExpression.swift */,
 			);
 			path = FaceApp;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				B4DB839524FFCD75000F9AB7 /* FaceViewController.swift in Sources */,
 				B4DB839124FFCD75000F9AB7 /* AppDelegate.swift in Sources */,
+				B48C1FBD2535E51300AC873E /* FacialExpression.swift in Sources */,
 				B4DB839324FFCD75000F9AB7 /* SceneDelegate.swift in Sources */,
 				B4DB83A624FFD7C7000F9AB7 /* FaceView.swift in Sources */,
 			);
