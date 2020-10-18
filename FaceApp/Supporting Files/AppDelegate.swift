@@ -5,6 +5,8 @@
 //  Created by Dayeon Jung on 2020/09/02.
 //  Copyright © 2020 Dayeon Jung. All rights reserved.
 //
+// 참고  https://github.com/zhugejunwei/Stanford-Developing-iOS-9-Apps-with-Swift/tree/master/FaceIt/FaceIt
+
 
 import UIKit
 

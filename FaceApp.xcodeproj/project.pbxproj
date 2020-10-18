@@ -60,11 +60,11 @@
 		B4DB838F24FFCD75000F9AB7 /* FaceApp */ = {
 			isa = PBXGroup;
 			children = (
-				B4DB83A424FFD6E2000F9AB7 /* Supporting Files */,
 				B4DB839624FFCD75000F9AB7 /* Main.storyboard */,
 				B4DB839424FFCD75000F9AB7 /* FaceViewController.swift */,
 				B4DB83A524FFD7C7000F9AB7 /* FaceView.swift */,
 				B48C1FBC2535E51300AC873E /* FacialExpression.swift */,
+				B4DB83A424FFD6E2000F9AB7 /* Supporting Files */,
 			);
 			path = FaceApp;
 			sourceTree = "<group>";
